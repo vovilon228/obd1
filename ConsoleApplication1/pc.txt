@@ -1,0 +1,5 @@
+1	Vega		54.2		Incredible	1.1	exactingness
+2	Ixpa	15		Perdect	1	performance
+3	Road	36.8		Good	0.7	performance
+4	Sweet	60		Good	0.3	popularity
+5	Kurr	30		Nice	0.8	exactingness
